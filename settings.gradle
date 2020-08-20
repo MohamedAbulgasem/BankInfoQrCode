@@ -1,0 +1,4 @@
+rootProject.name = 'BankInfoScanner'
+
+include ':bankinfoscanner'
+include ':bankinfoscanner-sample'
