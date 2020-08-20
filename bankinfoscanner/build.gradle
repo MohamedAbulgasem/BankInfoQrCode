@@ -109,7 +109,7 @@ bintray {
         name = libraryName
         desc = libraryDescription
         websiteUrl = siteUrl
-        issueTrackerUrl = 'https://github.com/MohamedAbulgasem/LoadingOverlay/issues'
+        issueTrackerUrl = 'https://github.com/MohamedAbulgasem/BankInfoScanner/issues'
         vcsUrl = gitUrl
         licenses = ["Apache-2.0"]
         publicDownloadNumbers = true
