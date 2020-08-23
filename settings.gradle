@@ -1,4 +1,4 @@
-rootProject.name = 'BankInfoScanner'
+rootProject.name = 'BankInfoQrCode'
 
-include ':bankinfoscanner'
-include ':bankinfoscanner-sample'
+include ':bankinfoqrcode'
+include ':bankinfoqrcode-sample'

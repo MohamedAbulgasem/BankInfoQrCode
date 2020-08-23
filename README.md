@@ -1,3 +1,3 @@
-# BankInfoScanner
+# BankInfoQrCode
 
 > Coming soon ...

@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BankInfoScanner.iml" filepath="$PROJECT_DIR$/.idea/modules/BankInfoScanner.iml" group="BankInfoScanner" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bankinfoscanner/bankinfoscanner.iml" filepath="$PROJECT_DIR$/.idea/modules/bankinfoscanner/bankinfoscanner.iml" group="BankInfoScanner/bankinfoscanner" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/bankinfoscanner-sample.iml" filepath="$PROJECT_DIR$/.idea/modules/app/bankinfoscanner-sample.iml" group="BankInfoScanner/bankinfoscanner-sample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BankInfoQrCode.iml" filepath="$PROJECT_DIR$/.idea/modules/BankInfoQrCode.iml" group="BankInfoQrCode" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bankinfoscanner/bankinfoqrcode.iml" filepath="$PROJECT_DIR$/.idea/modules/bankinfoscanner/bankinfoqrcode.iml" group="BankInfoQrCode/bankinfoqrcode" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/bankinfoqrcode-sample.iml" filepath="$PROJECT_DIR$/.idea/modules/app/bankinfoqrcode-sample.iml" group="BankInfoQrCode/bankinfoqrcode-sample" />
     </modules>
   </component>
 </project>
