@@ -42,11 +42,11 @@ buildscript {
     }
     ext {
         libraryVersion = '0.0.1'
-        libraryName = 'bankinfoscanner'
+        libraryName = 'bankinfoqrcode'
         publishedGroupId = 'com.mohamedabulgasem'
-        libraryDescription = 'Bank account info QR code scanner for Android.'
-        siteUrl = 'https://github.com/MohamedAbulgasem/BankInfoScanner'
-        gitUrl = 'https://github.com/MohamedAbulgasem/BankInfoScanner.git'
+        libraryDescription = 'Generic bank account information QR code generator/scanner for Android.'
+        siteUrl = 'https://github.com/MohamedAbulgasem/BankInfoQrCode'
+        gitUrl = 'https://github.com/MohamedAbulgasem/BankInfoQrCode.git'
     }
 }
 
@@ -109,7 +109,7 @@ bintray {
         name = libraryName
         desc = libraryDescription
         websiteUrl = siteUrl
-        issueTrackerUrl = 'https://github.com/MohamedAbulgasem/BankInfoScanner/issues'
+        issueTrackerUrl = 'https://github.com/MohamedAbulgasem/BankInfoQrCode/issues'
         vcsUrl = gitUrl
         licenses = ["Apache-2.0"]
         publicDownloadNumbers = true
